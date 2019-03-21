@@ -1,2 +1,2 @@
-# silver_umbrella
+# Oanda Trading System
 Trade algorithms
